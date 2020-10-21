@@ -11,11 +11,11 @@
 
 ### Hi there, I'm Alberto García 👋
 
-I'm a Software Developer, System Designer & Linux Enthusiast!
+I'm a Computer Engineer, Software Developer & Linux Enthusiast!
 - 🔭 I’m currently very busy at work.
-- 🌱 I’m currently learning `javascript` and `qt`
+- 🌱 I’m currently learning `javascript` and `next.js`
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to <a href="https://letspingit.com">Let's Ping It</a>
 - ⚡ Fun fact: I love 🏋🏻 | 🐶 | 👨‍💻
 
 ### Connect with me:
