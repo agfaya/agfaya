@@ -22,8 +22,8 @@ I'm a Computer Engineer, Software Developer & Linux Enthusiast!
 
 [<img align="left" alt="agfaya | Twitter" width="24px" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" />][twitter]
 [<img align="left" alt="agfaya | Github" width="24px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />][github]
-[<img align="left" alt="agfaya | Instagram" width="24px" src="https://pics.freeicons.io/uploads/icons/png/18265738341599780998-512.png" />][instagram]
-[<img align="left" alt="agfaya | Email" width="24px" src="https://pics.freeicons.io/uploads/icons/png/16983312581574338606-512.png" />][gmail]
+[<img align="left" alt="agfaya | Instagram" width="24px" src="https://pics.freeicons.io/uploads/icons/png/2504645431599781003-512.png" />][instagram]
+[<img align="left" alt="agfaya | Email" width="24px" src="https://pics.freeicons.io/uploads/icons/png/15743770351574338605-512.png" />][gmail]
 
 <br />
 
