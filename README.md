@@ -20,10 +20,10 @@ I'm a Computer Engineer, Software Developer & Linux Enthusiast!
 
 ### Connect with me:
 
-[<img align="left" alt="agfaya | Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" />][twitter]
-[<img align="left" alt="agfaya | Github" width="22px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />][github]
-[<img align="left" alt="agfaya | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/19042250241579774616-512.png" />][instagram]
-[<img align="left" alt="agfaya | Email" width="22px" src="https://pics.freeicons.io/uploads/icons/png/11082093271551939477-512.png" />][gmail]
+[<img align="left" alt="agfaya | Twitter" width="24px" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" />][twitter]
+[<img align="left" alt="agfaya | Github" width="24px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />][github]
+[<img align="left" alt="agfaya | Instagram" width="24px" src="https://pics.freeicons.io/uploads/icons/png/19042250241579774616-512.png" />][instagram]
+[<img align="left" alt="agfaya | Email" width="24px" src="https://pics.freeicons.io/uploads/icons/png/11082093271551939477-512.png" />][gmail]
 
 <br />
 
