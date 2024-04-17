@@ -5,7 +5,7 @@
 [linkedin]: https://www.linkedin.com/in/agfaya/
 
 <a href="https://github.com/agfaya/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agfaya&show_icons=true&include_all_commits=false&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agfaya&show_icons=true&include_all_commits=false&card_width=330" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfaya&layout=compact&langs_count=8&card_width=369" />
