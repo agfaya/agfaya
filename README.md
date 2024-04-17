@@ -5,10 +5,7 @@
 [linkedin]: https://www.linkedin.com/in/agfaya/
 
 <a href="https://github.com/agfaya/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agfaya&hide=contribs" />
-</a>
-<a href="https://github.com/agfaya/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfaya&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agfaya&hide=contribs&card_width=100" />
 </a>
 
 ### Hi there, I'm Alberto García 👋
