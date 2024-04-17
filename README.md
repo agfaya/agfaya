@@ -4,11 +4,12 @@
 [gmail]: mailto:albertodelafaya@gmail.com
 [linkedin]: https://www.linkedin.com/in/agfaya/
 
-<p align="center">
-  <img alt="agfaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=agfaya&show_icons=true&include_all_commits=true&hide_border=true" />
-<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
-</p>
+<a href="https://github.com/agfaya/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agfaya&show_icons=true&include_all_commits=false&card_width=350" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agfaya&layout=compact&langs_count=8&card_width=369" />
+</a>
 
 ### Hi there, I'm Alberto García 👋
 
